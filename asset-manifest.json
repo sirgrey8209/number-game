@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/number-game/static/css/main.68568744.chunk.css",
-    "main.js": "/number-game/static/js/main.599598b5.chunk.js",
-    "main.js.map": "/number-game/static/js/main.599598b5.chunk.js.map",
+    "main.css": "/number-game/static/css/main.f1dfbe77.chunk.css",
+    "main.js": "/number-game/static/js/main.11dbd4e8.chunk.js",
+    "main.js.map": "/number-game/static/js/main.11dbd4e8.chunk.js.map",
     "runtime-main.js": "/number-game/static/js/runtime-main.162379e6.js",
     "runtime-main.js.map": "/number-game/static/js/runtime-main.162379e6.js.map",
     "static/js/2.7c6c4432.chunk.js": "/number-game/static/js/2.7c6c4432.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.2f075ed8.chunk.js": "/number-game/static/js/3.2f075ed8.chunk.js",
     "static/js/3.2f075ed8.chunk.js.map": "/number-game/static/js/3.2f075ed8.chunk.js.map",
     "index.html": "/number-game/index.html",
-    "static/css/main.68568744.chunk.css.map": "/number-game/static/css/main.68568744.chunk.css.map",
+    "static/css/main.f1dfbe77.chunk.css.map": "/number-game/static/css/main.f1dfbe77.chunk.css.map",
     "static/js/2.7c6c4432.chunk.js.LICENSE.txt": "/number-game/static/js/2.7c6c4432.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.162379e6.js",
     "static/js/2.7c6c4432.chunk.js",
-    "static/css/main.68568744.chunk.css",
-    "static/js/main.599598b5.chunk.js"
+    "static/css/main.f1dfbe77.chunk.css",
+    "static/js/main.11dbd4e8.chunk.js"
   ]
 }
